@@ -1,4 +1,4 @@
-# Identifying customer segments using unsupervised machine learning
+# Identifying customer segments using unsupervised machine learning models
 
 This project is part of Udacity's Data Science Nanodegree Term 1. It uses a proprietary data set and a general demographics data set to identify segments of the population that could potentially be new clients for a mail-order service in Germany.
 
